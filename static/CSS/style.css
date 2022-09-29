@@ -68,17 +68,33 @@ p{
 
     section{
         width: 100%;
+        padding: 2rem;
     }
 
     body{
-        padding: 0 3rem;
+        padding: 0 2.5rem;
+    }
+
+    h2{
+        font-size: 1.3rem;
     }
 
     p{
-        font-size: 1.5rem;
+        font-size: 1rem;
+        width: 100%;
+        padding-left: .7rem;
+        padding-right: .7rem;
+    }
+
+    input[type=number]{
+        width: 100%;
+        font-size: 1rem;
+        padding: .5rem;
     }
 
     input[type=submit]{
+        width: 100%;
         font-size: .85rem;
+        padding: .5rem;
     }
   }
