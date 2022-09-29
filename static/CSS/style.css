@@ -63,7 +63,7 @@ p{
 
 /* Media Query */
 
-@media (min-width:0px) and (max-width:768px)
+@media (min-width:0px) and (max-width:1090px)
   and (orientation:portrait){
 
     section{
